@@ -1,4 +1,4 @@
-jobs
-====
+bitBlu jobs
+===========
 
-Our jobs page
+[jobs.bitblu.com](http://jobs.bitblu.com/)
